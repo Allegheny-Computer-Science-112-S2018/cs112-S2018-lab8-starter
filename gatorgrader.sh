@@ -173,7 +173,7 @@ if [ "$CHECK" = true ]; then
                                      --checkfiles reflection.md --fragments "\`\`\`" --fragmentcounts 1
   determine_exit_code $?
   # --> GatorGrader CHECK: the repository contains at least five beyond current commit count
-  python3 gatorgrader/gatorgrader.py --nowelcome --commits 5
+  python3 gatorgrader/gatorgrader.py --nowelcome --commits 22
   determine_exit_code $?
  echo ""
   printf "%s\n" "${blu}... Finished checking with GatorGrader${end}"
