@@ -20,10 +20,10 @@ PROBLEMS?
 
 -->
 
-# cs112-S2018-lab8-solution
+# cs112-S2018-lab8-starter
 
 Designed for use with [GitHub Classroom](https://classroom.github.com/), this
-repository contains the solution for Laboratory 8 in Computer Science 112.
+repository contains the starter for Laboratory 8 in Computer Science 112.
 
 <!---
 
