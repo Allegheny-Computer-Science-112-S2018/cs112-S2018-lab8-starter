@@ -208,7 +208,7 @@ public class TestSinglyLinkedList {
     SinglyLinkedList<String> listOne = new SinglyLinkedList<String>();
     listOne.addLast(new String("Element One"));
     listOne.addLast(new String("Element Two"));
-    assertTrue(!listOne.equals(new ArrayList()));
+    assertTrue(!listOne.equals(new ArrayList<String>()));
   }
 
   @Test
