@@ -41,7 +41,7 @@ studies by reviewing the content in Sections 4.1 through 4.3. Also, you can
 learn more about iterative algorithms by reviewing Section 1.5.2. Please note
 that this assignment will also require you to read and use Java classes that
 contain a test suite. Specifically, the programmer is responsible for learning
-how to run and extend a test suite written in the JUnit testing framework, as
+how to run and understand a test suite written in the JUnit testing framework, as
 explained in Section 1.9. As verified by
 [Checkstyle](https://github.com/checkstyle/checkstyle), the source code for all
 of the Java classes must adhere to all of the requirements in the [Google Java
